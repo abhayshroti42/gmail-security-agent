@@ -1,0 +1,23 @@
+# Secrets
+.env
+credentials.json
+token.json
+*.key
+*.pem
+
+# Generated files
+logs/
+reports/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Local debugging
+task_debug.xml
